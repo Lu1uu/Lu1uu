@@ -1,4 +1,3 @@
-<h1 align="center">Hello, I'm Anthony</h1>
 - I’m currently working on [Photosnap](https://github.com/Lu1uu/Photosnap-)
 
 - I’m currently learning **Backend technologies**
