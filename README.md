@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Anthony</h1>
 - I’m currently working on [Photosnap](https://github.com/Lu1uu/Photosnap-)
 
-- I’m currently learning **Python and Node**
+- I’m currently learning **Backend technologies**
 
 - Ask me about **Vue | Anime | Web Development | Collaborations**
 
