@@ -1,8 +1,8 @@
 - I’m currently learning **Backend technologies**
 
-- Ask me about **Vue | Anime | Web Development | Collaborations**
+- Ask me about **Vue | Anime | Web Development | Collaborations | Go / Baduk**
 
-- How to reach me **Discord: Lu1u#3006**
+- How to reach me **Email: hello.navi.98@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
